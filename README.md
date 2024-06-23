@@ -1,8 +1,7 @@
 # WePC Veterinary Management System
 
 ## Overview
-
-WePC Veterinary Management System is a comprehensive Java-based application designed to manage various aspects of a veterinary clinic. This system includes separate interfaces for pet owners, veterinarians, and administrative employees, each with tailored functionalities. GUI and Command-Line Interface applications are available and which offer the same functionalities.
+This is a Java-based, data management application for veterinary clinic with separate interfaces for pet owners, vets, and admin employees. Our team of 3 completed a design cycle from conceptual design, logical design using SQL to final application using Java, bridged by the JDBC API for interaction.
 
 ### GUI Components
 
