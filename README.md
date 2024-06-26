@@ -13,7 +13,7 @@ This is a Java-based, data management application for veterinary clinic with sep
 ## Prerequisites
 
 - Java Runtime Environment
-- Import raw data.  Download: [dump.sql]()
+- Import raw data.  Download: [dump.sql](https://github.com/yuezhang23/WeeClinicDBMS/releases/download/WeeClinicDump/finalDump12.8.sql)
 - JDBC driver for MySQL
   Download:  [connector](https://github.com/yuezhang23/WeeClinicDBMS/releases/download/connector/mysql-connector-j-8.2.0.jar)
 
