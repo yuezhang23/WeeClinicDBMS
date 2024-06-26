@@ -14,7 +14,8 @@ This is a Java-based, data management application for veterinary clinic with sep
 
 - Java Runtime Environment
 - MySQL database server with the `we_pc` dump file imported
-- JDBC driver for MySQL [connector](https://github.com/yuezhang23/WeeClinicDBMS/releases/download/connector/mysql-connector-j-8.2.0.jar)
+- JDBC driver for MySQL
+  -- Download:  [connector](https://github.com/yuezhang23/WeeClinicDBMS/releases/download/connector/mysql-connector-j-8.2.0.jar)
 
 ## Setup
 
